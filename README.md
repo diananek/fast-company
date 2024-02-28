@@ -1,8 +1,30 @@
-# React + Vite
+# Fast Company
+Pet-проект "Приложение для быстрых свиданий"
+В данном приложении реализована фильтрация, поиск, валидация форм, роутинг
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Основные технологии
+- React
+- React Router
+- Bootstrap
+- Vite
 
-Currently, two official plugins are available:
+## Использование
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Установите npm-зависимости для проекта
+```sh
+$ npm install
+```
+
+Запустите проект:
+```sh
+$ npm run dev
+```
+Откройте проект в браузере:
+```
+  http://localhost:5174/
+```
+### Требования
+Для установки и запуска проекта, необходим [NodeJS](https://nodejs.org/) v20.11+.
+
+
+
